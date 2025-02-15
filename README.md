@@ -1,2 +1,1 @@
-# bookbot
-Bookbot - Boot.dev
+BookBot is my first project!
